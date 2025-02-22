@@ -1,2 +1,3 @@
 # e_commerce
-mentor_mind_project
+
+ ## Identify customer segments for online retail with the use of K-means clustering
